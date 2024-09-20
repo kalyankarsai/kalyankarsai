@@ -16,7 +16,7 @@
 
 - 💻 Visit my [Portfolio](https://Kalyankarsai.github.io) for more details about me.
 
-- 💼 See my experience over the year: **[Resume](https://kalyankarsai.github.io/SaiKiranKalyankar_Resume.pdf)**
+- 💼 See my experience over the year: **[Resume](https://kalyankarsai.github.io/assets/SaiKiranKalyankar_Resume.pdf)**
 
 
 ## 👨‍💻 Tech Stack that I worked with:
