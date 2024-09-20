@@ -1,6 +1,6 @@
-# Hi, Myself <a href="https://kalyankarsai.github.io" target="_blank">Sai Kiran Kalyankar</a> <img src="https://github.com/kalyankarsai/kalyankarsai/blob/master/hi.gif?raw=true" width="25px">, Welcome to my GitHub Profile
+# Hi, Myself <a href="https://kalyankarsai.github.io" target="_blank">Sai Kiran Kalyankar</a> <img src="https://github.com/kalyankarsai/kalyankarsai/blob/main/Hi.gif?raw=true" width="25px">, Welcome to my GitHub Profile
 
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/kalyankarsai/kalyankarsai/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/kalyankarsai/kalyankarsai/blob/main/coding.gif?raw=true" />
 
 - 👨‍💻 I'm an experienced software developer with over 5 years in Backend and Full Stack Development.
 
