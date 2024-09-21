@@ -1,4 +1,4 @@
-# Hi, Myself <a href="https://kalyankarsai.github.io" target="_blank">Sai Kiran Kalyankar <img src="https://github.com/kalyankarsai/kalyankarsai/blob/main/Hi.gif?raw=true" width="25px"></a>, Welcome to my GitHub Profile
+# Hi, Myself <a href="https://kalyankarsai.github.io" target="_blank">Sai Kiran Kalyankar <img src="https://github.com/kalyankarsai/kalyankarsai/blob/main/Hi.gif?raw=true" width="25px"/></a>, Welcome to my GitHub Profile
 
 <a href="https://kalyankarsai.github.io" target="_blank"><img width="40%" align="right" alt="Coding Boy" src="https://github.com/kalyankarsai/kalyankarsai/blob/main/coding.gif?raw=true" /></a>
 
@@ -131,6 +131,7 @@
 - **Salesforce**: ☁️ Cloud-based CRM and app platform.
 
 ## <h2 align='center'>Connect with me @ </h2>
+
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/-kalyankarsaiusa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalyankarsaiusa@gmail.com)](mailto:kalyankarsaiusa@gmail.com)
