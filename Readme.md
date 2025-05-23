@@ -8,15 +8,13 @@
 
 - 🛠️ Proficient in a wide range of technologies: Java, Python, C#, JavaScript, TypeScript, React, Angular, Spring Boot, .Net and more.
 
-- ☁️ Skilled in cloud architecture and microservices with hands-on experience in AWS and Azure.
+- ☁️ Skilled in cloud architecture and microservices with hands-on experience in AWS, Azure, GCP, and PCF.
 
 - 💡 Always exploring new ideas, technologies, and ways to create impactful solutions!
 
 - 🌱 I'm on track with learning more about GenAI, 3D Graphics, DataOps, MLOps, DevOps and Software Architecture.
 
 - 💻 Visit my [Portfolio](https://Kalyankarsai.github.io) for more details about me.
-
-- 💼 See my experience over the year: **[Resume](https://kalyankarsai.github.io/assets/SaiKiranKalyankar_Resume.pdf)**
 
 ## 👨‍💻 Tech Stack that I worked with:
 
@@ -71,6 +69,7 @@
 - **Azure DevOps**: ☁️ CI/CD and collaboration.
 - **AWS**: ☁️ Cloud services platform.
 - **PCF**: 🛠️ PaaS for modern apps.
+- **GCP**: ☁️ Google Cloud Platform.
 - **Bash/Shell**: 🖥️ Scripting for UNIX-like systems.
 - **GitLab**: 🛠️ CI/CD and version control.
 - **Bitbucket**: 📁 Git code management.
