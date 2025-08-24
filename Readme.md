@@ -2,7 +2,7 @@
 
 <a href="https://kalyankarsai.github.io" target="_blank"><img width="40%" align="right" alt="Coding Boy" src="https://github.com/kalyankarsai/kalyankarsai/blob/main/coding.gif?raw=true" /></a>
 
-- 👨‍💻 I'm a Senior Software Developer with over 6 years of experience in Backend and Full-Stack Development.
+- 👨‍💻 I'm a Senior Software Developer with over 7+ years of experience in Backend and Full-Stack Development.
 
 - 🚀 Passionate about solving complex problems and building scalable, high-performance applications.
 
